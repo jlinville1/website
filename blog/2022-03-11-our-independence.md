@@ -10,6 +10,7 @@ tags: ['update', 'meta']
 
 <head>
   <meta property="og:type" content="website" />
+  <meta property="og:title" content="A New Chapter for Project Nebula" />
   <meta property="og:site_name" content="Project Nebula Blog" />
   <meta property="og:description" content="Project Nebula is becoming its own registered student organization, complete with more money for snacks and events along with more opportunities for getting involved." />
   <meta
