@@ -8,6 +8,16 @@ author_image_url: https://avatars.githubusercontent.com/u/16641570?v=4
 tags: ['update', 'meta']
 ---
 
+<head>
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Project Nebula Blog">
+  <meta property="og:description" content="Project Nebula is becoming its own registered student organization, complete with more money for snacks and events along with more opportunities for getting involved.">
+  <meta
+    property="og:image"
+    content="/img/logos/nebula-logo-full-bleed.png"
+  />
+</head>
+
 **TL;DR: We're kicking off a new chapter by becoming our own student organization.**
 
 ## What's Happening?
